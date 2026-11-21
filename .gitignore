@@ -1,0 +1,36 @@
+# Secrets & environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+dist/
+build/
+
+# Personal resumes & exported local reports
+*.pdf
+*.docx
+!sample_resume.pdf
+uploads/
+exports/
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
