@@ -1,6 +1,6 @@
-# CareerAI — Smart Resume Analyzer & Job Recommendation System (Streamlit Edition)
+# CareerAI — Smart Resume Analyzer & Job Recommendation System 
 
-An interactive, full-featured **Streamlit** web application for resume evaluation and career intelligence. It parses **PDF, Word (DOCX), TXT, and Markdown** resumes, normalizes technical & soft skills via NLP matching, scores resumes transparently on a **100-point rubric**, recommends best-fit roles using **TF-IDF + Cosine Similarity**, generates step-by-step upskilling roadmaps, and exports downloadable **PDF / Markdown** reports[cite: 7, 8, 9, 10, 11].
+An interactive, full-featured **Streamlit** web application for resume evaluation and career intelligence. It parses **PDF, Word (DOCX), TXT, and Markdown** resumes, normalizes technical & soft skills via NLP matching, scores resumes transparently on a **100-point rubric**, recommends best-fit roles using **TF-IDF + Cosine Similarity**, generates step-by-step upskilling roadmaps, and exports downloadable **PDF / Markdown** reports
 
 ## Project Structure
 
